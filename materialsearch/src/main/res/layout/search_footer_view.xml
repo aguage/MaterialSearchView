@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/textHistory"
+    android:layout_width="match_parent"
+    android:layout_height="@dimen/search_height"
+    android:background="?android:attr/selectableItemBackground"
+    android:gravity="center"
+    android:paddingEnd="@dimen/search_key_line"
+    android:paddingLeft="@dimen/search_key_line"
+    android:paddingRight="@dimen/search_key_line"
+    android:paddingStart="@dimen/search_key_line"
+    android:text="@string/clear_history"
+    android:textColor="@color/search_light_text"
+    android:textSize="@dimen/search_text_small">
+
+</TextView>
